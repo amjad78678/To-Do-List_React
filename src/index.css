@@ -30,19 +30,19 @@ button{
     background-color: hsl(152, 78%, 55%);
 }
 .add-button:hover{
-  background-color: hsl(162, 51%, 36%);
+  background-color: hsl(162, 51%, 45%);
 }
 .delete-button{
-    background-color: #dc3545; 
+    background-color: hsl(354, 70%, 54%); 
 }
 .delete-button:hover{
-    background-color: #dc3545;
+    background-color: hsl(354, 70%, 44%);
 }
 .move-button{
     background-color: hsl(240, 100%, 71%);    
 }
 .move-button:hover{
-    background-color:hsla(240, 100%, 71%, 0.694);
+    background-color:hsla(240, 100%, 61%);
 }
 input[type='text']{
     font-size: 1.6rem;
@@ -50,6 +50,7 @@ input[type='text']{
     border: 2px solid rgb(161, 182, 25);
     border-radius: 5px;
     color: black;
+    margin-bottom: 10px;  
 }
 ol{
 

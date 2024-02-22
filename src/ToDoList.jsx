@@ -92,13 +92,13 @@ function moveTaskUp(index) {
                 onClick={() => moveTaskUp(index)}
                 className="move-button"
               >
-                Up
+                👆
               </button>
               <button
                 onClick={() => moveTaskDown(index)}
                 className="move-button"
               >   
-                Down
+                👇
               </button>
             </li>
           ))}
